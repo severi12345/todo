@@ -44,3 +44,9 @@ body {
     font-weight: bold;
   }
   
+  .edit {
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+  }
+  
